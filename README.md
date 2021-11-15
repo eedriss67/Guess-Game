@@ -1,4 +1,4 @@
-# Guess Game
+# Guess Game Project
 
 - 👋 Hi, I’m @eedriss67
 - 👀 I’m interested in ...
